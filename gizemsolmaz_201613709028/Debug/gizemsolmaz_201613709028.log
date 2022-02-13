@@ -1,0 +1,4 @@
+﻿  gizemsolmaz_201613709028.c
+C:\Users\gizem\Desktop\201613709028_gizemsolmaz\gizemsolmaz_201613709028\gizemsolmaz_201613709028.c(27,32): warning C4047: '=': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+C:\Users\gizem\Desktop\201613709028_gizemsolmaz\gizemsolmaz_201613709028\gizemsolmaz_201613709028.c(91,36): warning C4047: '==': 'int', yöneltme düzeyi sayısı bakımından 'void *' ile aynı değil
+  gizemsolmaz_201613709028.vcxproj -> C:\Users\gizem\Desktop\201613709028_gizemsolmaz\gizemsolmaz_201613709028\Debug\gizemsolmaz_201613709028.exe
